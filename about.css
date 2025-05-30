@@ -1,0 +1,127 @@
+header{
+    display: flex;
+    align-items: center;
+    color: rgb(245, 98, 3);
+}
+.First{
+    height: 170px;
+    width: 170px;
+    margin: 30px;
+}
+.about{
+    font-size: 35px;
+    margin-left: 600px;
+}
+.name{
+    font-size: 35px;
+    margin-left: 200px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.WE{
+    font-size: 35px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+.WE:hover{
+    text-shadow: 0 0 20px rgb(255, 251, 0)
+}
+.WEE{
+    font-size: 35px;
+    margin-left: 100px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.WEE:hover{
+    text-shadow: 0 0 20px rgb(255, 251, 0)
+}
+.line{
+    height: 3px;
+    width: 99vw;
+    background-color: rgb(245, 98, 3);
+    border-radius: 3px;
+}
+.name:hover{
+    text-shadow: 0 0 20px rgb(255, 251, 0)
+}
+body{
+    margin: 0px;
+    background-color: rgb(56, 56, 78);
+    color: rgb(211, 208, 208);
+}
+.About{
+    font-size: 30px;
+    margin-left: 100px;
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+    display: flex;
+}
+.img{
+    height: 900px;
+    width: 900px;
+    margin: 30px;
+    margin-top: 50px;
+    border-radius: 50px;
+    display: flex;
+}
+.stop{
+    background-color: rgb(245, 98, 3);
+    margin-top: 50px;
+    width: 99vw;
+    height: 360px;
+}
+.last{
+    display: flex;
+}
+.d{
+    font-size: 25px;
+    margin-left: 400px;
+    width: 500px;
+    margin-top: 30px;
+}
+.NI{
+    font-size: 30px;
+    font: bolder;
+    margin-bottom: 40px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.last{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+}
+.laast{
+    text-align: center;
+}
+.AAbout{
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 200px;
+}
+.AAbout:hover{
+    text-shadow: 0 0 20px rgb(0, 0, 0);
+}
+.NI:hover{
+    text-shadow: 0 0 20px rgb(0, 0, 0);
+}
+.we{
+    cursor: pointer;
+    text-decoration: none;
+}
+.we:hover{
+    text-shadow: 0 0 20px rgb(0, 0, 0);
+}
+.wee{
+    cursor: pointer;
+    text-decoration: none;
+}
+.wee:hover{
+    text-shadow: 0 0 20px rgb(0, 0, 0);
+}
+.p{
+    font-size: 35px;
+    color: rgb(245, 98, 3);
+    margin-bottom: 0px;
+}
